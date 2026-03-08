@@ -1,0 +1,21 @@
+{
+    "name": "Ali Derwish",
+    "Erfarenhet": [
+        {
+            "name": "SOC L1 Analyst",
+            "date": "2022 - Nu",
+            "location": "Cybersäkerhetsbolag, Truesec, Stockholm",
+            "description": "Incidenthantering, logganalys, SIEM-övervakning och eskalering av säkerhetshändelser."
+        }
+      
+    ],
+    "Utbildning": [
+        {
+            "name": "Fullstack .NET-utvecklare",
+            "date": "2025 - Nu",
+	        "location": "YH-utbildning, Chas Academy, Stockholm", 
+	        "description": "C#, ASP.NET Core, SQL, React, JavaScript, HTML/CSS."
+        }
+        
+    ]
+}
